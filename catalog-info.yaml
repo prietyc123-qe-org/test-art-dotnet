@@ -14,6 +14,7 @@ metadata:
     backstage.io/kubernetes-id: test-art 
     backstage.io/techdocs-ref: dir:. 
     janus-idp.io/tekton: test-art
+    jfrog-artifactory/image-name: bootstrap
   tags: ["net", "sscs", "sbom", "acs"] 
 spec:
   type: service
